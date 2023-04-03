@@ -2,9 +2,9 @@
 A simple todo list application built using Flutter.
 
 ## Installation
-Clone the repository to your local machine.
-git clone https://github.com/your-username/todo-list-app.git
-Navigate to the project directory.
+1. Clone the repository to your local machine.
+2. git clone https://github.com/Mohamad-Atif1/Todo.git
+3. Navigate to the project directory.
 cd todo-list-app
 Install the required dependencies.
 flutter pub get
